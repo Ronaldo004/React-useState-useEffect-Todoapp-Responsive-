@@ -1,0 +1,78 @@
+.Main{
+   height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px ;
+}
+.childMain{
+   
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.formControl{
+    width: 250px;
+    height: 30px;
+    margin: 3px 0px;
+    font-size: large;
+    font-weight: 600;
+
+    border: none;
+}
+.Logo{
+    width: 80px;
+    height: 80px;
+}
+.para{
+    font-size: large;
+}
+.add-btn{
+   
+    width: 15px;
+    margin: 0px 6px;
+}
+.Dell-btn{
+   width: 150px;
+   height: 5vh;
+   border-radius: 10px;
+}
+.Dell-btn:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+.showItem{
+    
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.eachItem{
+   border-bottom: 1px solid red;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.todo-btn{
+   
+    width: auto;
+    margin: 0px 5px;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.adde-btn{
+    margin: 0px 5px;
+}
